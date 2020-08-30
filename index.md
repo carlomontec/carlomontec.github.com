@@ -1,5 +1,7 @@
 # TryScience 2020
 
+![cgx blade](cgx.png)
+
 Here couple details for the interested to open the results file at home!
 
 + The open source software to visualize the blade vibration modes is called CalculiX GraphiX, and the Windows version can be download from here:   http://www.bconverged.com/download.php
